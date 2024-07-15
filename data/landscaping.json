@@ -1,0 +1,937 @@
+     { "rating": 4.8,
+      "reference": "ChIJ8Q8lTKeUwoAR6BWN_ukNDwo",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 61
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "7018 Woodrow Wilson Dr, Los Angeles, CA 90068, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.1247399,
+          "lng": -118.3470199
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.12615912989272,
+            "lng": -118.3457174701073
+          },
+          "southwest": {
+            "lat": 34.12345947010728,
+            "lng": -118.3484171298927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "California Green Dreams",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113515747731414047850\">A Google User</a>"
+          ],
+          "photo_reference": "AUc7tXVz3moCEcfOR_j19AUuciEbvbjMP-H8MZMqTDWByETrJX79pMztls2C_PnwNy8654MiN6aVtoESQ17sb36sSY0vK6a_Rhujpousfg3wRP9jf8YDYOIoozh3vK8YFIwyIdt2SohDwAPifrcrI0X1vKlh0nJT4kEXbH5LQ6Ip45D7hBRf",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJOaHYDaO_woARHZUKPdAFDZo",
+      "plus_code": {
+        "compound_code": "4MF3+V5 Los Angeles, California",
+        "global_code": "85634MF3+V5"
+      },
+      "rating": 5,
+      "reference": "ChIJOaHYDaO_woARHZUKPdAFDZo",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1740 N Dillon St, Los Angeles, CA 90026, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.0917959,
+          "lng": -118.2705461
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.09317787989273,
+            "lng": -118.2692703201073
+          },
+          "southwest": {
+            "lat": 34.09047822010729,
+            "lng": -118.2719699798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Fuzzyscape",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105550514857754058688\">Fuzzyscape</a>"
+          ],
+          "photo_reference": "AUc7tXVEkiuOlE8pZygyS1roz5TrHnTUCJ5fJsPCuf4UF_SL_kDivegDIE1YEiDG1VH6l3Qo25P-9m5k6ioc-7mbEL7Nm1nSWUZKSJATWmNedvHm5Yf5Wv-SqJDicDsi8rbAACN6CpyY1YcIqyZs2NwlSUESA7pi54b36x6yQU51gDtqwFAX",
+          "width": 1512
+        }
+      ],
+      "place_id": "ChIJZ5r73p9P60kRvhLOSvKxFtU",
+      "plus_code": {
+        "compound_code": "3PRH+PQ Los Angeles, California",
+        "global_code": "85633PRH+PQ"
+      },
+      "rating": 5,
+      "reference": "ChIJZ5r73p9P60kRvhLOSvKxFtU",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "4464 W Adams Blvd, Los Angeles, CA 90016, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.0325043,
+          "lng": -118.336926
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.03389302989272,
+            "lng": -118.3355767201073
+          },
+          "southwest": {
+            "lat": 34.03119337010728,
+            "lng": -118.3382763798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Sergio Contreras Landscape Inc.",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114341926178468649574\">S. Contreras</a>"
+          ],
+          "photo_reference": "AUc7tXVyJGvW6GT0J-4Gu5XDVgWUSULXxHiEu9a1aOykFOCfMYDQx52QAjbHaWsTA6sUoL0y3zu-oxu6pIDt3BKs92Opx89qQqSiLCjIvkq-PfsSxop4ein0DutIQR3lI_rQ3tw_WzFU6GPq6eBYHK2Xi1jzqpYr4AUinPa0AhLIrXMxJJFu",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJL6XF-a65woARb9cdDB4F23M",
+      "plus_code": {
+        "compound_code": "2MM7+26 Los Angeles, California",
+        "global_code": "85632MM7+26"
+      },
+      "rating": 4.2,
+      "reference": "ChIJL6XF-a65woARb9cdDB4F23M",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 20
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "12400 Ventura Blvd #848, Los Angeles, CA 91604, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.1427021,
+          "lng": -118.4031393
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.14398767989272,
+            "lng": -118.4017898701073
+          },
+          "southwest": {
+            "lat": 34.14128802010728,
+            "lng": -118.4044895298927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kate Anne Designs",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 904,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110819918630314139833\">Kate Anne Designs - Landscape Design &amp; Installation</a>"
+          ],
+          "photo_reference": "AUc7tXX18eZAUKH4F8bpRokwNwz4YK_y3sqDckbZS56Lm3lDsChyI5ZB1QpxXpmrB1zDtDM7LJKJnwWvfoxWDjnxLru-ZGv8lwyKv12UdV6NQtTXeMkk4p-LAY7LGlGvey8kch1l4yMwCyDflFtLqdX6O-1jctvR6upZUrI8MVQ6Xyp3nRPK",
+          "width": 1356
+        }
+      ],
+      "place_id": "ChIJzcHYjPq9woARZ-ZsN8Ya9bA",
+      "plus_code": {
+        "compound_code": "4HVW+3P Los Angeles, California",
+        "global_code": "85634HVW+3P"
+      },
+      "rating": 5,
+      "reference": "ChIJzcHYjPq9woARZ-ZsN8Ya9bA",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 26
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "925 N La Brea Ave Office 424, West Hollywood, CA 90038, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.0879291,
+          "lng": -118.3446425
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.08928627989273,
+            "lng": -118.3430098201073
+          },
+          "southwest": {
+            "lat": 34.08658662010728,
+            "lng": -118.3457094798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Aerations Plus Sprinkler Repair Los Angeles",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 398,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100215432286479039366\">A Google User</a>"
+          ],
+          "photo_reference": "AUc7tXXZI8b-pbeUCTkFSnUXAYsBd83x9gLGWRwdRTHUUV3CLiVzFa4aETkbtDrwS62mUBDDQw54-AzEU3be7Go_-EQfhXkhrLIkrtwJFlCiMEnpYcIpddsvsy5z4Ko6z3RodIAbFgfnnoDoJKNMmo1J9_SCOgSAa5a2LvN5RgheguCED4F8",
+          "width": 589
+        }
+      ],
+      "place_id": "ChIJH2msSRi5woARw3AlBqYxUAE",
+      "plus_code": {
+        "compound_code": "3MQ4+54 West Hollywood, California",
+        "global_code": "85633MQ4+54"
+      },
+      "rating": 4.2,
+      "reference": "ChIJH2msSRi5woARw3AlBqYxUAE",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 51
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "6605 Hollywood Blvd UNIT 210, Los Angeles, CA 90028, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.101832,
+          "lng": -118.333608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.10313917989272,
+            "lng": -118.3321267701073
+          },
+          "southwest": {
+            "lat": 34.10043952010728,
+            "lng": -118.3348264298928
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Land Images",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116935240388177807408\">A Google User</a>"
+          ],
+          "photo_reference": "AUc7tXWwGQSzmtzKBOJYONBcC4YDcUgHgP9mvwNfFseRVy7e6iPNp1vlc9zEyVP4kwlH5SyBjDVrOgMnFrRaMb9nqTXdO7kKnxZ6_5rCKyRK0q9duwOnf5xJckx2B-OdsEwqr2e-Zq4JjSzXlmTShf8M6ODA7SFb0eBOIASBqeG5qofnXQYr",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJDxOZpzy_woARgxm831EvIZk",
+      "plus_code": {
+        "compound_code": "4M28+PH Los Angeles, California",
+        "global_code": "85634M28+PH"
+      },
+      "rating": 5,
+      "reference": "ChIJDxOZpzy_woARgxm831EvIZk",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1532 S Curson Ave, Los Angeles, CA 90019, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.0471046,
+          "lng": -118.3605039
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.04848037989272,
+            "lng": -118.3592671701073
+          },
+          "southwest": {
+            "lat": 34.04578072010728,
+            "lng": -118.3619668298928
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Gonzalez & Sons Gardening and Landscaping Services",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104716081463644795204\">A Google User</a>"
+          ],
+          "photo_reference": "AUc7tXWelGNgAPdEISdY3LG43H9PVdEvmqIuCOIkHXp2eov2QuZ-fTVp7ussRg_sdIDyNsd32Yy9shS1WQX06I1BsI31QVwca_H3gIA8a4QeKYImmVAPPz4Ikz2jWTQXhUNCorsTcOq2X9yhvnxS0liC0kz47kV0VrWbzUBerfMmfWYZP35D",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJzkBrg-5woAR8RYsu7tUq1c",
+      "plus_code": {
+        "compound_code": "2JWQ+RQ Los Angeles, California",
+        "global_code": "85632JWQ+RQ"
+      },
+      "rating": 4.3,
+      "reference": "ChIJJzkBrg-5woAR8RYsu7tUq1c",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2604 Manning Ave, Los Angeles, CA 90064, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.0401153,
+          "lng": -118.4201878
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.04140592989272,
+            "lng": -118.4189533701073
+          },
+          "southwest": {
+            "lat": 34.03870627010728,
+            "lng": -118.4216530298928
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Urban Oasis Landscape Design",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 300,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110266957955072730830\">A Google User</a>"
+          ],
+          "photo_reference": "AUc7tXXk8qrNoigFvxCfkR7tFnuUVUPv-aObz5adSc2zHR7EGoLvxRR-sqH8eZW33g5qD_bobFZgX4BDqFVSuim-ZBuh3iCYkKLY93MlTRjPCodQbEuFnkqRSQRbgxYvEIh6QOp8BHNqd3S65cWl1SNOOEamV2rS3wDQEZ16h3WqGVzVy75B",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJIRZ9w767woARngXtdnkksfA",
+      "plus_code": {
+        "compound_code": "2HRH+2W Los Angeles, California",
+        "global_code": "85632HRH+2W"
+      },
+      "rating": 4.8,
+      "reference": "ChIJIRZ9w767woARngXtdnkksfA",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "6515 W Sunset Blvd Ste 310, Los Angeles, CA 90028, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.098349,
+          "lng": -118.3315989
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.09964047989272,
+            "lng": -118.3302829201073
+          },
+          "southwest": {
+            "lat": 34.09694082010727,
+            "lng": -118.3329825798928
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Patricia Benner Landscape Design",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110930387257064023196\">A Google User</a>"
+          ],
+          "photo_reference": "AUc7tXVI1fpwTBQpQfgXwpZp8dMopLPar501eN8PEy7a7qrHYpSYKWEjsdiYyFuTGXWvImiAmkExdvtMplIY6vQYpFW_zLyThwu4ayS0YzinoES_DgRjHQpKDVHqLLmwbYXoee6entSJWLGTTwwwV1OTTNl5K5nYs9hxk0eFltmjX1HmSzPr",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJD_m9Z9e4woARxramWYrVtJQ",
+      "plus_code": {
+        "compound_code": "3MX9+89 Los Angeles, California",
+        "global_code": "85633MX9+89"
+      },
+      "rating": 3,
+      "reference": "ChIJD_m9Z9e4woARxramWYrVtJQ",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "2100 Beverly Blvd, Los Angeles, CA 90057, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.066398,
+          "lng": -118.270747
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.06781217989272,
+            "lng": -118.2693497201073
+          },
+          "southwest": {
+            "lat": 34.06511252010728,
+            "lng": -118.2720493798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "RotoTillerGuy : Landscape Contractor | Sod | Sprinkler Installation & Repair",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 562,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118135366849832797720\">A Google User</a>"
+          ],
+          "photo_reference": "AUc7tXXqWAUn0C-41eb3Rd0AXJ7UxcN_KC7IXFDakay3VRZp3jNKEW4JGGnds0QmO0B0mf5NfsoeGYgaIjwXiMAUBW77y0NL2F6hcYNsGfe7O-spBo2ibTCaDqcGxwBRR9kUtww_TL0KqCQTCOkdU1Qe95WTB_oeBu5HXbczz6HIxU7NIXtZ",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJcQFZBgzHwoARux_Ozoh9pa8",
+      "plus_code": {
+        "compound_code": "3P8H+HP Los Angeles, California",
+        "global_code": "85633P8H+HP"
+      },
+      "rating": 4.5,
+      "reference": "ChIJcQFZBgzHwoARux_Ozoh9pa8",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "3835 Franklin Ave, Los Angeles, CA 90068, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.1023471,
+          "lng": -118.2760337
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.10368512989272,
+            "lng": -118.2747072201073
+          },
+          "southwest": {
+            "lat": 34.10098547010728,
+            "lng": -118.2774068798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Barefoot Landscape",
+      "place_id": "ChIJReAlnsrAwoARboKfw1JQvLo",
+      "plus_code": {
+        "compound_code": "4P2F+WH Los Angeles, California",
+        "global_code": "85634P2F+WH"
+      },
+      "rating": 5,
+      "reference": "ChIJReAlnsrAwoARboKfw1JQvLo",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "5550 Grosvenor Blvd #349, Los Angeles, CA 90066, United States",
+      "geometry": {
+        "location": {
+          "lat": 33.98119459999999,
+          "lng": -118.4117615
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 33.98259947989271,
+            "lng": -118.4104454201073
+          },
+          "southwest": {
+            "lat": 33.97989982010727,
+            "lng": -118.4131450798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Los Angeles Landscaping Services",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109300517793528201466\">A Google User</a>"
+          ],
+          "photo_reference": "AUc7tXWqsIey8z4X7rpIlCA1KipHp2lC3o3u6s8xeQ8_rqQgaEVxRMDZHww9qCrndRtGEBDifEXqtNrwbs_a4n-ODJX54AE_QJriBgFeZUuKoq2R0Csr5Q3_I4v1n6_gM6d_oaZnx8T_v7hSu56c6UBaGpaYLcEo7KatLQrU1OA3-suhwfIN",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJ-4Y5k-mxwoARBj7FnPALW2M",
+      "plus_code": {
+        "compound_code": "XHJQ+F7 Los Angeles, California",
+        "global_code": "8553XHJQ+F7"
+      },
+      "rating": 5,
+      "reference": "ChIJ-4Y5k-mxwoARBj7FnPALW2M",
+      "types": [
+        "general_contractor",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "1503 W Adams Blvd, Los Angeles, CA 90007, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.0329883,
+          "lng": -118.2945598
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.03422122989272,
+            "lng": -118.2932373201073
+          },
+          "southwest": {
+            "lat": 34.03152157010727,
+            "lng": -118.2959369798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Alberto's Gardening",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1502,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106422500478002358403\">Matt Jason</a>"
+          ],
+          "photo_reference": "AUc7tXW3EkYcbYNHOD2Q_7uRN_PuD9iIdt6ttcj081vGAzphK4nXHNase4_f-_RnpwKU6YivoeU9dV6rjRBQfCdTOa0SVCYbSg-fRwtOP2ZGBi8rJzQkJijwfqaQ7ET80MPRlg4fzyp1OMdodB124-4tt059dSfKx2ug1tVEYeW9GMCdDC7S",
+          "width": 2002
+        }
+      ],
+      "place_id": "ChIJUWpeB8fHwoARKsgP7vHfjO4",
+      "plus_code": {
+        "compound_code": "2PM4+55 Los Angeles, California",
+        "global_code": "85632PM4+55"
+      },
+      "rating": 3,
+      "reference": "ChIJUWpeB8fHwoARKsgP7vHfjO4",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "4675 E Huntington Dr S, Los Angeles, CA 90032, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.0855967,
+          "lng": -118.1833541
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.08691732989272,
+            "lng": -118.1819921701073
+          },
+          "southwest": {
+            "lat": 34.08421767010727,
+            "lng": -118.1846918298927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "KeepItLeafy",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 668,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108113454295562069984\">A Google User</a>"
+          ],
+          "photo_reference": "AUc7tXVuhunJ6zwRuwwoderrb1DftH_OXJYEKuQv5cjIIVYbAMymMokPPitJ6zfkJSv8pDkwRXNSddicSGxz4mlZYKIx45OM5yRdLxpzkB13ibC1rRCv9KXFojF2kt5RxTtBSDeZqIrWWXm-4jOfLIJAu1pipoEXAT66c6CH2-8Ck3C7r93b",
+          "width": 1114
+        }
+      ],
+      "place_id": "ChIJf0FynTXEwoARRt9eZaUh418",
+      "plus_code": {
+        "compound_code": "3RP8+6M Los Angeles, California",
+        "global_code": "85633RP8+6M"
+      },
+      "rating": 4,
+      "reference": "ChIJf0FynTXEwoARRt9eZaUh418",
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "formatted_address": "Hedrick Summit, Suite 483 South, 330 De Neve Dr, Los Angeles, CA 90024, United States",
+      "geometry": {
+        "location": {
+          "lat": 34.073898,
+          "lng": -118.449969
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 34.07538572989272,
+            "lng": -118.4483997201072
+          },
+          "southwest": {
+            "lat": 34.07268607010728,
+            "lng": -118.4510993798927
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "LawnStarter Lawn Care Service",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116374802923884648665\">Robert Alexander</a>"
+          ],
+          "photo_reference": "AUc7tXWS56jexKyO7rjFgwsQkknV4OkWsbM9ODwaWht6U6L73zX5tYo1iqJD5M2DKF4llvLlkcMY9hqKMI7rPtW1NMjMsCnvsOHTc-JxGziW2pV6FeXAxkaC1rkja2v_JRfTdsQDK-Dxmf9MnnD1WtezkNwLLvstwzEXCRJ51Rbnx0i8u2eh",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJC23C2yK9woARbDsZQa7ADf4",
+      "plus_code": {
+        "compound_code": "3HF2+H2 Los Angeles, California",
+        "global_code": "85633HF2+H2"
+      },
+      "rating": 4.5,
+      "reference": "ChIJC23C2yK9woARbDsZQa7ADf4",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 56
+    }
+  ],
+  "status": "OK"
+}
+Found 17 results.
+Found 37 businesses. Checking websites...
+Results:
+[
+  {
+    "name": "Flores Artscape",
+    "address": "3959 Eagle Rock Blvd, Los Angeles, CA 90065, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Green Grounds Landscape Services",
+    "address": "5401 W Adams Blvd, Los Angeles, CA 90016, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Supergreen Landscape",
+    "address": "1838 S La Brea Ave, Los Angeles, CA 90019, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Artscape Gardens",
+    "address": "4654 Carnegie St, Los Angeles, CA 90032, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Joaquin’s Landscaping",
+    "address": "2328 1/2 Carmona Ave, Los Angeles, CA 90016, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Pacific Outdoor Living",
+    "address": "8309 Tujunga Ave #201, Sun Valley, CA 91352, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Cruz Landscape",
+    "address": "1323 Fedora St, Los Angeles, CA 90006, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Carrillos Gardening Services",
+    "address": "5450 W Slauson Ave MBII-16, 5450 S Slauson Ave, Culver City, CA 90230, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Garden Designs & Landscapes",
+    "address": "3612 Barham Blvd, Los Angeles, CA 90068, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "AJP LANDSCAPE INC",
+    "address": "4828 St Charles Pl, Los Angeles, CA 90019, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Green Advisor Inc",
+    "address": "7660 Beverly Blvd, Los Angeles, CA 90036, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Deephouse Landscaping",
+    "address": "2499 Beachwood Dr, Los Angeles, CA 90068, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "GreenTree Landscaping",
+    "address": "849 Highland Ave, Los Angeles, CA 90038, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "HB Landscape Design LLC",
+    "address": "Federal Ave, Los Angeles, CA 90025, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Diaz Landscaping Services",
+    "address": "1865 1/2 W 25th St, Los Angeles, CA 90018, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "LunaBella Tree Svc & Landscape LLC",
+    "address": "n/a, Los Angeles, CA 90006, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Gabriel´s Tree Service And Landscaping",
+    "address": "11528 Felton Ave, Los Angeles, CA 90045, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Garden Works Landscape Service",
+    "address": "2444 Chelsea Pl, Santa Monica, CA 90404, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Glendale Landscaping",
+    "address": "701 S Gramercy Dr UNIT 410, Los Angeles, CA 90005, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "BuildCal Turf Inc",
+    "address": "4943 McConnell Ave Unit E, Los Angeles, CA 90066, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Droughtscape",
+    "address": "Angeles Crest Scenic Bywy, La Cañada Flintridge, CA 91011, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Picture Build",
+    "address": "12410 Foothill Blvd Unit U, Sylmar, CA 91342, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "California Green Dreams",
+    "address": "7018 Woodrow Wilson Dr, Los Angeles, CA 90068, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Fuzzyscape",
+    "address": "1740 N Dillon St, Los Angeles, CA 90026, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Sergio Contreras Landscape Inc.",
+    "address": "4464 W Adams Blvd, Los Angeles, CA 90016, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Kate Anne Designs",
+    "address": "12400 Ventura Blvd #848, Los Angeles, CA 91604, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Aerations Plus Sprinkler Repair Los Angeles",
+    "address": "925 N La Brea Ave Office 424, West Hollywood, CA 90038, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Land Images",
+    "address": "6605 Hollywood Blvd UNIT 210, Los Angeles, CA 90028, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Gonzalez & Sons Gardening and Landscaping Services",
+    "address": "1532 S Curson Ave, Los Angeles, CA 90019, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Urban Oasis Landscape Design",
+    "address": "2604 Manning Ave, Los Angeles, CA 90064, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Patricia Benner Landscape Design",
+    "address": "6515 W Sunset Blvd Ste 310, Los Angeles, CA 90028, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "RotoTillerGuy : Landscape Contractor | Sod | Sprinkler Installation & Repair",
+    "name": "RotoTillerGuy : Landscape Contractor | Sod | Sprinkler Installation & Repair",
+    "address": "2100 Beverly Blvd, Los Angeles, CA 90057, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Barefoot Landscape",
+    "address": "3835 Franklin Ave, Los Angeles, CA 90068, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "Los Angeles Landscaping Services",
+    "address": "5550 Grosvenor Blvd #349, Los Angeles, CA 90066, United States",   
+    "hasWebsite": false
+  },
+  {
+    "name": "Alberto's Gardening",
+    "address": "1503 W Adams Blvd, Los Angeles, CA 90007, United States",
+    "hasWebsite": false
+  },
+  {
+    "name": "KeepItLeafy",
+    "address": "4675 E Huntington Dr S, Los Angeles, CA 90032, United States",     
+    "hasWebsite": false
+  },
+  {
+    "name": "LawnStarter Lawn Care Service",
+    "address": "Hedrick Summit, Suite 483 South, 330 De Neve Dr, Los Angeles, CA 90024, United States",
+    "hasWebsite": false
+  }
+]
