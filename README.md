@@ -41,10 +41,10 @@ results to Google Sheets.
    service account details:
 
     ```
-    GOOGLE_API_KEY=your_google_api_key
-    GOOGLE_SHEETS_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nYour-Private-Key-Here\n-----END PRIVATE KEY-----\n"
-    GOOGLE_SHEETS_CLIENT_EMAIL=your-service-account-email@your-project.iam.gserviceaccount.com
-    SPREADSHEET_ID=your-google-sheets-spreadsheet-id
+    GOOGLE_API_KEY
+    GOOGLE_SHEETS_PRIVATE_KEY
+    GOOGLE_SHEETS_CLIENT_EMAIL
+    SPREADSHEET_ID
     ```
 
 4. Create a `cache` directory in the project root:
